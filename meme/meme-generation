@@ -1,0 +1,318 @@
+Script started on Fri Feb  7 15:52:46 2025
+Restored session: Fri Feb  7 15:51:23 PST 2025
+[1m[7m%[27m[1m[0m                                                                                      ]7;file://Yasmeens-MBP.T-mobile.com/Users/tahershaikh/Downloads/workspace/home[0m[27m[24m[J(base) tahershaikh@Yasmeens-MBP home % [K[?2004hppwd[?2004l
+/Users/tahershaikh/Downloads/workspace/home
+[1m[7m%[27m[1m[0m                                                                                      ]7;file://Yasmeens-MBP.T-mobile.com/Users/tahershaikh/Downloads/workspace/home[0m[27m[24m[J(base) tahershaikh@Yasmeens-MBP home % [K[?2004hcconda deactivate[?2004l
+[1m[7m%[27m[1m[0m                                                                                      ]7;file://Yasmeens-MBP.T-mobile.com/Users/tahershaikh/Downloads/workspace/home[0m[27m[24m[Jtahershaikh@Yasmeens-MBP home % [K[?2004hppython -m venv venv[?2004l
+[1m[7m%[27m[1m[0m                                                                                      ]7;file://Yasmeens-MBP.T-mobile.com/Users/tahershaikh/Downloads/workspace/home[0m[27m[24m[Jtahershaikh@Yasmeens-MBP home % [K[?2004hssource vrnv   env /bin[1m/[0m[0m/activate[?2004l
+[1m[7m%[27m[1m[0m                                                                                      ]7;file://Yasmeens-MBP.T-mobile.com/Users/tahershaikh/Downloads/workspace/home[0m[27m[24m[J(venv) tahershaikh@Yasmeens-MBP home % [K[?2004hlls[?2004l
+Guide.ipynb		app.py			requirements.txt
+QuoteEngine		ingestor.py		templates
+README.md		meme-generation		tmp
+__pycache__		meme.py			venv
+_data			memegenerator.py
+[1m[7m%[27m[1m[0m                                                                                      ]7;file://Yasmeens-MBP.T-mobile.com/Users/tahershaikh/Downloads/workspace/home[0m[27m[24m[J(venv) tahershaikh@Yasmeens-MBP home % [K[?2004hp bbre b  [7mbrew install poppler[27m[20D[27mb[27mr[27me[27mw[27m [27mi[27mn[27ms[27mt[27ma[27ml[27ml[27m [27mp[27mo[27mp[27mp[27ml[27me[27mr[?2004l
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/poppler/manifests/25.02.0[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/ee9af0967752918dfb5fa66ffca108c398644016bc24d0ffa6cdc69adbebb3db--poppler-25.02.0.bottle_manifest.json
+[32m==>[0m [1mFetching dependencies for poppler: [32mlibpng[39m, [32mfontconfig[39m, [32mpython-packaging[39m, [32mca-certificates[39m, [32mopenssl@3[39m, [32msqlite[39m, [32mxz[39m, [32mexpat[39m, [32mpython@3.13[39m, [32mlibunistring[39m, [32mgettext[39m, [32mglib[39m, [32mlibxau[39m, [32mlibxrender[39m, [32mpixman[39m, [32mlibidn2[39m, [32mlibtasn1[39m, [32mnettle[39m, [32mp11-kit[39m, [32mlibnghttp2[39m, [32munbound[39m, [32mgnutls[39m, [32mlibgpg-error[39m, [32mlibassuan[39m, [32mlibgcrypt[39m, [32mlibksba[39m, [32mlibusb[39m, [32mnpth[39m, [32mpinentry[39m, [32mgnupg[39m, [32mgpgme[39m, [32mjpeg-turbo[39m, [32mnspr[39m, [32mnss[39m and [32mopenjpeg[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libpng/manifests/1.6.46[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/6d80bc92108aa9bc4068077c07ccbfad5fb22f8b3af5189e26d5467b33257976--libpng-1.6.46.bottle_manifest.json
+[32m==>[0m [1mFetching [32mlibpng[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libpng/blobs/sha256:0c6a41266b6f59ee5[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/9316671c817494b0fdb7c5020cc021aca9828d4fd4fc80896cdc468d85f7a614--libpng--1.6.46.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/fontconfig/manifests/2.16.0[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/6897fed6b85e0f537cb8774ec21346308111caaf26c136f33fdc95302d361fe7--fontconfig-2.16.0.bottle_manifest.json
+[32m==>[0m [1mFetching [32mfontconfig[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/fontconfig/blobs/sha256:e09a652250156[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/abad1e22ba52d3b075f48177f424bfd103b7e178d9f96d4ed95ac5556dcdf3c8--fontconfig--2.16.0.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/python-packaging/manifests/24.2[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/a654ed84d67e434e714ac548959721dfcfc2297e1cb87be9237baee7632a2b76--python-packaging-24.2.bottle_manifest.json
+[32m==>[0m [1mFetching [32mpython-packaging[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/python-packaging/blobs/sha256:81d0db4[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/2ce5bd24826be4f109b675fb9602e4c0e5424b4962c8f45612434da96167dade--python-packaging--24.2.all.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/ca-certificates/manifests/2024-12-31[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/c41a485689e1507291617fb1f0e2322a087064960638fd050663df867bf53928--ca-certificates-2024-12-31.bottle_manifest.json
+[32m==>[0m [1mFetching [32mca-certificates[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/ca-certificates/blobs/sha256:414ada64[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/c139574154be31eaa168519750ddbae9b45eb437f842c40c23ecbe906fb86a10--ca-certificates--2024-12-31.all.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/openssl/3/manifests/3.4.0[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/a8a169d38329b14f967d497d0ea77eee6dc5444175093fc7b26026b357e81736--openssl@3-3.4.0.bottle_manifest.json
+[32m==>[0m [1mFetching [32mopenssl@3[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/openssl/3/blobs/sha256:9017cd4ac641f4[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/85c3ba5d9afcacca4703e1893a2172a7b7c01f28fdbe4da4f3c6713f893c1d40--openssl@3--3.4.0.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/sqlite/manifests/3.48.0[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/7a63b9acdf9ca49e2b2210a457922c9e0b8953abfa8674fcb0e2ded21d0e2c53--sqlite-3.48.0.bottle_manifest.json
+[32m==>[0m [1mFetching [32msqlite[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/sqlite/blobs/sha256:3046ba527c7add5e0[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/dbad7552efe459d3d652b33b41256ea2c6b067b2f24dbf53d4b34ba7f45e74ce--sqlite--3.48.0.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/xz/manifests/5.6.4[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/d14e84095418591f4112922f1a834dbac6c7e4fdc334eae0aaff35e2b860cc5b--xz-5.6.4.bottle_manifest.json
+[32m==>[0m [1mFetching [32mxz[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/xz/blobs/sha256:6e91c631057824a935981[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/0c9c37beb79c47ed410910d804086c70aacd26b77aacb17ada6a9673df149b0b--xz--5.6.4.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/expat/manifests/2.6.4[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/700d5fdfe27a60378ec5801ebcbf598a7f6eeb78be73ddb517b205e6692b42d6--expat-2.6.4.bottle_manifest.json
+[32m==>[0m [1mFetching [32mexpat[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/expat/blobs/sha256:e9563e83b969283e97[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/7fe2860b07543a2fe77850afe980e8b1de03b097fc04f6ab869825f2706bc48c--expat--2.6.4.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/python/3.13/manifests/3.13.2[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/ed88e7b3fd6fee101e6c569740db52ea7364a7e3d9092a35d8375795a39c2592--python@3.13-3.13.2.bottle_manifest.json
+[32m==>[0m [1mFetching [32mpython@3.13[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/python/3.13/blobs/sha256:6cd37a46af6b[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/ebd6273256fb97f4579c993f559d586ae07aaf4ff1553e9e222475dd487da721--python@3.13--3.13.2.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libunistring/manifests/1.3[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/a570da63bc1839c7e217f203abd54d4d873ebd6b99f6e88994d0e79e2ebe987c--libunistring-1.3.bottle_manifest.json
+[32m==>[0m [1mFetching [32mlibunistring[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libunistring/blobs/sha256:9aebb86a6fb[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/b75379181cdd3f72d59521870fa3b86cc22b5c8407dd76311e1ad83b1e3f4d38--libunistring--1.3.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/gettext/manifests/0.23.1[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/a5b6ba6453cc31731ac67fb3d0075d98ab572a913f3e740b54a86d79906f360e--gettext-0.23.1.bottle_manifest.json
+[32m==>[0m [1mFetching [32mgettext[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/gettext/blobs/sha256:fffb8da1a3258ca7[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/3849b9b5e567c3bb2f0c51a35337ce0bf99fb49ba26351d4d9bddbf390615210--gettext--0.23.1.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/glib/manifests/2.82.4-1[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/48cf1dc2a2e975f6b45e31970e772c5b8aadbf7e5dd1b4543c353ae422f07e1c--glib-2.82.4-1.bottle_manifest.json
+[32m==>[0m [1mFetching [32mglib[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/glib/blobs/sha256:d13fc9b102ae989dcc0[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/7e9eddcfe9853feeb2465c3e486e05949135a0ff045337fb31ae40434113a9e2--glib--2.82.4.ventura.bottle.1.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libxau/manifests/1.0.12[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/6335be202d59f96fdee2e4a02f93d8ee87dfcfdbaa4ed132b8fe8c3e3651e27c--libxau-1.0.12.bottle_manifest.json
+[32m==>[0m [1mFetching [32mlibxau[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libxau/blobs/sha256:9979936a79a670d37[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/407d09f02f1abb7c3df893bb63ac817fd98a8b9299a09fc88f4ba6236f5fe671--libxau--1.0.12.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libxrender/manifests/0.9.12[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/152fb22ff88a23b62841dcfa14aac21018e1d736c072d732185f6139ef922e1c--libxrender-0.9.12.bottle_manifest.json
+[32m==>[0m [1mFetching [32mlibxrender[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libxrender/blobs/sha256:7738d05da7567[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/1ef54733b602346ebd570c85615873f2eef2e3d47b82102e75edfa5abf2f286f--libxrender--0.9.12.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/pixman/manifests/0.44.2[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/710d020ae0348db5aff5d6dbdfd222dca000e630d64e8dcd5f8a8499e8131681--pixman-0.44.2.bottle_manifest.json
+[32m==>[0m [1mFetching [32mpixman[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/pixman/blobs/sha256:b705fc0334ba602ee[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/d95c7dd180afe0a6674d1fdba8ca6963442a922ede50b1601399ee5d78c0bd62--pixman--0.44.2.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libidn2/manifests/2.3.7[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/45d1d4d2930c4782bf53e761a1c0166cd8a40f4193ac8c44e86f0b6708e80354--libidn2-2.3.7.bottle_manifest.json
+[32m==>[0m [1mFetching [32mlibidn2[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libidn2/blobs/sha256:4b4f5eadc82273fb[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/a829efa97ebfe2c4dc9a341854926eae12fd1c45f4a08027bb707e4420d6ab1d--libidn2--2.3.7.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libtasn1/manifests/4.20.0[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/0d8e273dbfaade0247db22d4d5abf7e8d4d6c379f7912adc81c60e5d4418e8ca--libtasn1-4.20.0.bottle_manifest.json
+[32m==>[0m [1mFetching [32mlibtasn1[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libtasn1/blobs/sha256:544067beee3846e[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/8b19b03afc4d36ed1f58d9e35652f24659da4e279f913701714c063d3b593539--libtasn1--4.20.0.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/nettle/manifests/3.10.1[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/3a897a4b5866bef2225eb637641c992e5903a0748ec913a0747a253dcee0c4d8--nettle-3.10.1.bottle_manifest.json
+[32m==>[0m [1mFetching [32mnettle[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/nettle/blobs/sha256:7d924af8b68729fbd[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/0fe2295e1499beb7381b75de6f410d8a7547a1f23249b8a557333582d77f43a4--nettle--3.10.1.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/p11-kit/manifests/0.25.5-1[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/ba19311d6335b76681ee8e745af9980f80ad52d243a53066a21ead0d6d421a31--p11-kit-0.25.5-1.bottle_manifest.json
+[32m==>[0m [1mFetching [32mp11-kit[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/p11-kit/blobs/sha256:ab67e4c145d61683[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/971aa85d52b7996f1f708e828c30be858bf5fcd3a82297e8969987713b7f7502--p11-kit--0.25.5.ventura.bottle.1.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libnghttp2/manifests/1.64.0[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/ca092fa9d99f26d52103722d42230c00f21eb8a4a36bf1d40fc9d5f798562d92--libnghttp2-1.64.0.bottle_manifest.json
+[32m==>[0m [1mFetching [32mlibnghttp2[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libnghttp2/blobs/sha256:8c755a5d140ed[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/998614829ce568f9672910a82c5523f6613dad93de3705f527e39ead36922982--libnghttp2--1.64.0.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/unbound/manifests/1.22.0[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/94cb5ac77fe9ed3d8e9754f9abb482ea9c14403d0c80616f4f280ed4d7b69496--unbound-1.22.0.bottle_manifest.json
+[32m==>[0m [1mFetching [32munbound[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/unbound/blobs/sha256:3c43de07ff89234c[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/3463a5d603a36669f235a1f57a8649891f52bcab8c7a9ee4370c0d6070df0a2f--unbound--1.22.0.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/gnutls/manifests/3.8.4[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/73c18cc76ca68c25efa04b897881358a5ad032ae8e54f9c5fe81b70875128236--gnutls-3.8.4.bottle_manifest.json
+[32m==>[0m [1mFetching [32mgnutls[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/gnutls/blobs/sha256:08b8fc7ded2a17510[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/437a19b28a87632f6a49ac93c153f2bc820ce5e651c51539ee6576c069a8b893--gnutls--3.8.4.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libgpg-error/manifests/1.51[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/e7b7f2687086f9cee941cfee0b9d8c83d606b04d85698c55b10eb7a17d2c6bd2--libgpg-error-1.51.bottle_manifest.json
+[32m==>[0m [1mFetching [32mlibgpg-error[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libgpg-error/blobs/sha256:a184d3d6634[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/d589148333258f8aac9aa2c306e98e58501e508a3c99420a9e70d6db4a328cc6--libgpg-error--1.51.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libassuan/manifests/3.0.1[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/2b8939f1d24793140d12df7dc84ed40b6e873bde60e3d37fa8a8adaba9744e76--libassuan-3.0.1.bottle_manifest.json
+[32m==>[0m [1mFetching [32mlibassuan[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libassuan/blobs/sha256:432ad61d2bb3d4[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/b55b116c41eae0ab569e59249c82bdd3e1abb10455d5cdf0871d81dd168c4a81--libassuan--3.0.1.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libgcrypt/manifests/1.11.0[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/1a97cffc3d55ded961cbc89c68edd680c5b12b816a2fc19e30ff3f7cece070e6--libgcrypt-1.11.0.bottle_manifest.json
+[32m==>[0m [1mFetching [32mlibgcrypt[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libgcrypt/blobs/sha256:a2e2f896a1d89c[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/720cf9e40257cbb50d1dbead8b621aedd9bd5821cc0852fa4016b2d4ca0ecf1b--libgcrypt--1.11.0.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libksba/manifests/1.6.7[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/ecb8094d7fe13fc2fed0b4855e73ea116bf776cccef325e58e014fe31d962108--libksba-1.6.7.bottle_manifest.json
+[32m==>[0m [1mFetching [32mlibksba[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libksba/blobs/sha256:c296bd13b1b83cba[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/1ecb3b3600a36b5afb3a6b18b971c11258cdd990d48ae3cb9fa5a89a43411639--libksba--1.6.7.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libusb/manifests/1.0.27[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/55f37930c4e678b6d2cd789c12b59fc9ec1784ecd5c034e3ea54721c7f32272b--libusb-1.0.27.bottle_manifest.json
+[32m==>[0m [1mFetching [32mlibusb[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/libusb/blobs/sha256:4f8f2015115cc1861[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/9830201149ef71722fd2aa7534a0493676cbbd419e16c204f1a376d08b4cee3c--libusb--1.0.27.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/npth/manifests/1.8[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/4628473efb57fb8665d271a0d6c96c69b2d6ef2ce61fe0ac620c7efc2dbc7512--npth-1.8.bottle_manifest.json
+[32m==>[0m [1mFetching [32mnpth[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/npth/blobs/sha256:669a65d8a32cfd4d30a[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/626fc471fb24d592ae67568a8c6c8f0a4e4ffd9307024d143ea5f3e8ec20b290--npth--1.8.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/pinentry/manifests/1.3.1_1[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/617908cf1b83df85f8782c945baac7ee7d9941c93a1e3a09d34ba82bacd91460--pinentry-1.3.1_1.bottle_manifest.json
+[32m==>[0m [1mFetching [32mpinentry[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/pinentry/blobs/sha256:1a750d73932b1c8[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/ed6523b9a95a3ed06d2446d5fa364511a3f97faa0cdcdd75eeddb463c254bdda--pinentry--1.3.1_1.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/gnupg/manifests/2.4.7[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/6c3ae00dad22ab427b2646a49159dc14299ac8f924e1557f98acc0f7f7500e48--gnupg-2.4.7.bottle_manifest.json
+[32m==>[0m [1mFetching [32mgnupg[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/gnupg/blobs/sha256:1b8bfec784f857856a[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/8ab3214c0a6d202fed995dd58f66eb076553cceb5e2d0a5feb954ab4677a7eed--gnupg--2.4.7.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/gpgme/manifests/1.24.1[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/65e00a68e0ccf626beada9a20cc2e7126997a857176f5139fe858b5e9a229f3c--gpgme-1.24.1.bottle_manifest.json
+[32m==>[0m [1mFetching [32mgpgme[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/gpgme/blobs/sha256:9654900d27991ce8b5[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/ec6c97260357d356b9a55dc36effbc08c4264ed929c4c235e80612a1d2fc0fed--gpgme--1.24.1.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/jpeg-turbo/manifests/3.1.0[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/6a56a664f24b0435ac129cb33185ae84d884e0f2357ac6fd37727dad9ac5c7d7--jpeg-turbo-3.1.0.bottle_manifest.json
+[32m==>[0m [1mFetching [32mjpeg-turbo[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/jpeg-turbo/blobs/sha256:9bd429d9b147f[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/1f396beb5cb5196fda015157eadbcfd5930a2016475c312dd88aa8ef612b241c--jpeg-turbo--3.1.0.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/nspr/manifests/4.36[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/2dc0119ad361ddee3aa46221becf78cfc2c1e4fd9d1cd3ac8d6481f4dbaed304--nspr-4.36.bottle_manifest.json
+[32m==>[0m [1mFetching [32mnspr[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/nspr/blobs/sha256:4c66879d6672278c32c[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/6fafe38b0289fc4f3e2b54ab03b94ec2fc695c82a5efda5013d059c2b68328c8--nspr--4.36.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/nss/manifests/3.108[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/1eb4280fad1913a3cdfd3b105c26e3fe95d2ea0c4db9de9824fd720e9ea696e6--nss-3.108.bottle_manifest.json
+[32m==>[0m [1mFetching [32mnss[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/nss/blobs/sha256:b65f92e42d89038afe4c[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/5aa89a37ce16a89e884057539455e96609cbac3fc406285af96d8675c04f146d--nss--3.108.ventura.bottle.tar.gz
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/openjpeg/manifests/2.5.3[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/05e309d0892898d6a89fd896da03119707c403fd4cc6877860ec46b66b0946e9--openjpeg-2.5.3.bottle_manifest.json
+[32m==>[0m [1mFetching [32mopenjpeg[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/openjpeg/blobs/sha256:5619b9551a495dd[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/3063830d9ea5dc7a433141f73cc4a8a2b1808770ca6c8020414efd899de47e1f--openjpeg--2.5.3.ventura.bottle.tar.gz
+[32m==>[0m [1mFetching [32mpoppler[39m[0m
+[34m==>[0m [1mDownloading https://ghcr.io/v2/homebrew/core/poppler/blobs/sha256:9c1fc0d33802e48e[0m
+Already downloaded: /Users/tahershaikh/Library/Caches/Homebrew/downloads/229bb4a3a337020e1b2cf2675a8e1b70d412aeca81e3adff7819be7bba176f13--poppler--25.02.0.ventura.bottle.tar.gz
+[31mError:[0m Cannot install poppler because conflicting formulae are installed.
+  xpdf: because poppler, pdftohtml, pdf2image, and xpdf install conflicting executables
+
+Please `brew unlink xpdf` before continuing.
+
+Unlinking removes a formula's symlinks from /usr/local. You can
+link the formula again after the install finishes. You can `--force` this
+install, but the build may fail or cause obscure side effects in the
+resulting software.
+[1m[7m%[27m[1m[0m                                                                                      ]7;file://Yasmeens-MBP.T-mobile.com/Users/tahershaikh/Downloads/workspace/home[0m[27m[24m[J(venv) tahershaikh@Yasmeens-MBP home % [K[?2004h[7mpip uninstall python-docx[27m
+[7mpip install python-docx[27m[K
+[7mpip install pylint[27m[K[A[A[21C[27mp[27mi[27mp[27m [27mu[27mn[27mi[27mn[27ms[27mt[27ma[27ml[27ml[27m [27mp[27my[27mt[27mh[27mo[27mn[27m-[27md[27mo[27mc[27mx[1B[27mp[27mi[27mp[27m [27mi[27mn[27ms[27mt[27ma[27ml[27ml[27m [27mp[27my[27mt[27mh[27mo[27mn[27m-[27md[27mo[27mc[27mx[1B[27mp[27mi[27mp[27m [27mi[27mn[27ms[27mt[27ma[27ml[27ml[27m [27mp[27my[27ml[27mi[27mn[27mt[?2004l
+Found existing installation: python-docx 1.1.2
+Uninstalling python-docx-1.1.2:
+  Would remove:
+    /Users/tahershaikh/Downloads/workspace/home/venv/lib/python3.12/site-packages/docx/*
+    /Users/tahershaikh/Downloads/workspace/home/venv/lib/python3.12/site-packages/python_docx-1.1.2.dist-info/*
+Proceed (Y/n)? y
+  Successfully uninstalled python-docx-1.1.2
+Collecting python-docx
+  Obtaining dependency information for python-docx from https://files.pythonhosted.org/packages/3e/3d/330d9efbdb816d3f60bf2ad92f05e1708e4a1b9abe80461ac3444c83f749/python_docx-1.1.2-py3-none-any.whl.metadata
+  Using cached python_docx-1.1.2-py3-none-any.whl.metadata (2.0 kB)
+Requirement already satisfied: lxml>=3.1.0 in ./venv/lib/python3.12/site-packages (from python-docx) (5.3.0)
+Requirement already satisfied: typing-extensions>=4.9.0 in ./venv/lib/python3.12/site-packages (from python-docx) (4.12.2)
+Using cached python_docx-1.1.2-py3-none-any.whl (244 kB)
+Installing collected packages: python-docx
+Successfully installed python-docx-1.1.2
+
+[1m[[0m[34;49mnotice[0m[1;39;49m][0m[39;49m A new release of pip is available: [0m[31;49m23.2.1[0m[39;49m -> [0m[32;49m25.0[0m
+[1m[[0m[34;49mnotice[0m[1;39;49m][0m[39;49m To update, run: [0m[32;49mpip install --upgrade pip[0m
+Requirement already satisfied: pylint in ./venv/lib/python3.12/site-packages (3.3.4)
+Requirement already satisfied: dill>=0.3.6 in ./venv/lib/python3.12/site-packages (from pylint) (0.3.9)
+Requirement already satisfied: platformdirs>=2.2.0 in ./venv/lib/python3.12/site-packages (from pylint) (4.3.6)
+Requirement already satisfied: astroid<=3.4.0-dev0,>=3.3.8 in ./venv/lib/python3.12/site-packages (from pylint) (3.3.8)
+Requirement already satisfied: isort!=5.13.0,<7,>=4.2.5 in ./venv/lib/python3.12/site-packages (from pylint) (6.0.0)
+Requirement already satisfied: mccabe<0.8,>=0.6 in ./venv/lib/python3.12/site-packages (from pylint) (0.7.0)
+Requirement already satisfied: tomlkit>=0.10.1 in ./venv/lib/python3.12/site-packages (from pylint) (0.13.2)
+
+[1m[[0m[34;49mnotice[0m[1;39;49m][0m[39;49m A new release of pip is available: [0m[31;49m23.2.1[0m[39;49m -> [0m[32;49m25.0[0m
+[1m[[0m[34;49mnotice[0m[1;39;49m][0m[39;49m To update, run: [0m[32;49mpip install --upgrade pip[0m
+[1m[7m%[27m[1m[0m                                                                                      ]7;file://Yasmeens-MBP.T-mobile.com/Users/tahershaikh/Downloads/workspace/home[0m[27m[24m[J(venv) tahershaikh@Yasmeens-MBP home % [K[?2004hppip install Pillow[?2004l
+Requirement already satisfied: Pillow in ./venv/lib/python3.12/site-packages (11.1.0)
+
+[1m[[0m[34;49mnotice[0m[1;39;49m][0m[39;49m A new release of pip is available: [0m[31;49m23.2.1[0m[39;49m -> [0m[32;49m25.0[0m
+[1m[[0m[34;49mnotice[0m[1;39;49m][0m[39;49m To update, run: [0m[32;49mpip install --upgrade pip[0m
+[1m[7m%[27m[1m[0m                                                                                      ]7;file://Yasmeens-MBP.T-mobile.com/Users/tahershaikh/Downloads/workspace/home[0m[27m[24m[J(venv) tahershaikh@Yasmeens-MBP home % [K[?2004hppython app.py[1m [0m[0m [?2004l
+["To bork or not to bork" - Bork, "He who smelt it..." - Stinky, ""Bark like no one’s listening"" - Rex, ""RAWRGWAWGGR"" - Chewy, ""Life is like peanut butter: crunchy"" - Peanut, ""Channel your inner husky"" - Tiny, ""Treat yo self" - Fluffles "Life is like a box of treats" - Forrest Pup "It's the size of the fight in the dog"" - Bark Twain, "Chase the mailman" - Skittle, "When in doubt, go shoe-shopping" - Mr. Paws]
+['./_data/photos/dog/xander_4.jpg', './_data/photos/dog/xander_3.jpg', './_data/photos/dog/xander_2.jpg', './_data/photos/dog/xander_1.jpg']
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+["To bork or not to bork" - Bork, "He who smelt it..." - Stinky, ""Bark like no one’s listening"" - Rex, ""RAWRGWAWGGR"" - Chewy, ""Life is like peanut butter: crunchy"" - Peanut, ""Channel your inner husky"" - Tiny, ""Treat yo self" - Fluffles "Life is like a box of treats" - Forrest Pup "It's the size of the fight in the dog"" - Bark Twain, "Chase the mailman" - Skittle, "When in doubt, go shoe-shopping" - Mr. Paws]
+['./_data/photos/dog/xander_4.jpg', './_data/photos/dog/xander_3.jpg', './_data/photos/dog/xander_2.jpg', './_data/photos/dog/xander_1.jpg']
+ * Debugger is active!
+ * Debugger PIN: 916-996-262
+Selected Image: ./_data/photos/dog/xander_3.jpg
+Selected Quote: "Treat yo self" - Fluffles "Life is like a box of treats" - Forrest Pup "It's the size of the fight in the dog" - Bark Twain
+Could not load font from ./path/to/your/font.ttf. Using default font.
+Meme created successfully: ./tmp/xander_3_meme.jpg
+127.0.0.1 - - [07/Feb/2025 15:56:50] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [07/Feb/2025 15:56:50] "[33mGET /tmp/xander_3_meme.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [07/Feb/2025 15:56:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [07/Feb/2025 15:57:32] "GET /create HTTP/1.1" 200 -
+Error downloading image: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1517841905240-472988babdf9%20
+127.0.0.1 - - [07/Feb/2025 15:58:30] "POST /create HTTP/1.1" 200 -
+127.0.0.1 - - [07/Feb/2025 15:58:30] "[33mGET /None HTTP/1.1[0m" 404 -
+127.0.0.1 - - [07/Feb/2025 15:59:01] "GET /create HTTP/1.1" 200 -
+Error downloading image: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1517841905240-472988babdf9%20
+127.0.0.1 - - [07/Feb/2025 15:59:13] "POST /create HTTP/1.1" 200 -
+127.0.0.1 - - [07/Feb/2025 15:59:13] "[33mGET /None HTTP/1.1[0m" 404 -
+127.0.0.1 - - [07/Feb/2025 15:59:58] "GET /create HTTP/1.1" 200 -
+Could not load font from ./path/to/your/font.ttf. Using default font.
+Meme created successfully: ./tmp/temp_image_meme.jpg
+127.0.0.1 - - [07/Feb/2025 16:00:17] "POST /create HTTP/1.1" 200 -
+127.0.0.1 - - [07/Feb/2025 16:00:17] "[33mGET /tmp/temp_image_meme.jpg HTTP/1.1[0m" 404 -
+^C[1m[7m%[27m[1m[0m                                                                                      ]7;file://Yasmeens-MBP.T-mobile.com/Users/tahershaikh/Downloads/workspace/home[0m[27m[24m[J(venv) tahershaikh@Yasmeens-MBP home % [K[?2004hlls[?2004l
+Guide.ipynb		app.py			requirements.txt
+QuoteEngine		ingestor.py		templates
+README.md		meme-generation		tmp
+__pycache__		meme.py			venv
+_data			memegenerator.py
+[1m[7m%[27m[1m[0m                                                                                      ]7;file://Yasmeens-MBP.T-mobile.com/Users/tahershaikh/Downloads/workspace/home[0m[27m[24m[J(venv) tahershaikh@Yasmeens-MBP home % [K[?2004hrrm requirements.txt[1m [0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                      ]7;file://Yasmeens-MBP.T-mobile.com/Users/tahershaikh/Downloads/workspace/home[0m[27m[24m[J(venv) tahershaikh@Yasmeens-MBP home % [K[?2004h[7mpip freeze > requirements.txt[27m[29D[27mp[27mi[27mp[27m [27mf[27mr[27me[27me[27mz[27me[27m [27m>[27m [27mr[27me[27mq[27mu[27mi[27mr[27me[27mm[27me[27mn[27mt[27ms[27m.[27mt[27mx[27mt[?2004l
+[1m[7m%[27m[1m[0m                                                                                      ]7;file://Yasmeens-MBP.T-mobile.com/Users/tahershaikh/Downloads/workspace/home[0m[27m[24m[J(venv) tahershaikh@Yasmeens-MBP home % [K[?2004hccat requirements.txt[1m [0m[0m [?2004l
+astroid==3.3.8
+blinker==1.9.0
+certifi==2025.1.31
+charset-normalizer==3.4.1
+click==8.1.8
+dill==0.3.9
+Flask==3.1.0
+idna==3.10
+isort==6.0.0
+itsdangerous==2.2.0
+Jinja2==3.1.5
+lxml==5.3.0
+MarkupSafe==3.0.2
+mccabe==0.7.0
+numpy==2.2.2
+pandas==2.2.3
+pillow==11.1.0
+platformdirs==4.3.6
+pylint==3.3.4
+python-dateutil==2.9.0.post0
+python-docx==1.1.2
+pytz==2025.1
+requests==2.32.3
+six==1.17.0
+tomlkit==0.13.2
+typing_extensions==4.12.2
+tzdata==2025.1
+urllib3==2.3.0
+Werkzeug==3.1.3
+[1m[7m%[27m[1m[0m                                                                                      ]7;file://Yasmeens-MBP.T-mobile.com/Users/tahershaikh/Downloads/workspace/home[0m[27m[24m[J(venv) tahershaikh@Yasmeens-MBP home % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Fri Feb  7 16:02:43 2025
